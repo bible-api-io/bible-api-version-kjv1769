@@ -12,7 +12,7 @@ This is a local version of the King James Version of the Bible, 1769 edition, fo
 To use this version of the KJV1769 with [Bible API], simply install it with npm:
 
 ```bash
-npm install @bible-api/kjv1769
+npm install @bible-api/bible-api-version-kjv1769
 ```
 
 See [Bible API] for more information on how to use this module.
