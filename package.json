@@ -1,6 +1,6 @@
 {
   "name": "@bible-api/bible-api-version-kjv1769",
-  "version": "1.0.0-pre-release.0.1.0",
+  "version": "1.0.0",
   "description": "King James Version (1769) for @bible-api/bible-api.",
   "keywords": [
     "bible-api",
